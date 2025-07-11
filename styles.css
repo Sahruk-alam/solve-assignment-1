@@ -103,3 +103,34 @@ h2{
     margin-top: 20px;
     margin-bottom: 10px;
 }
+.linking{
+    display: flex;
+   
+    list-style: none;
+    
+}
+div ul li{
+    margin-right:48px ;
+
+}
+ul li a{
+    text-decoration: none;
+    color:#8987A1 ;
+}
+.descript-logo{
+    color: #8987A1;
+}
+.title-logo{
+    color:#4E47FF ;
+    font-size: 100px;
+    text-align: center;
+
+}
+.end-part{
+    padding: 103px 450px;
+   
+}
+h1{
+    margin-bottom: 8px;
+
+}
