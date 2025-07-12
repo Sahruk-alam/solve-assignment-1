@@ -105,7 +105,7 @@ h2{
 }
 .linking{
     display: flex;
-   
+   justify-content: center;
     list-style: none;
     
 }
@@ -119,6 +119,11 @@ ul li a{
 }
 .descript-logo{
     color: #8987A1;
+    text-align: center;
+
+}
+.links{
+    /* justify-content: center; */
 }
 .title-logo{
     color:#4E47FF ;
@@ -129,6 +134,7 @@ ul li a{
 .end-part{
     padding: 103px 445px;
     background-color: white;
+    align-items: center;
    
 }
 h1{
