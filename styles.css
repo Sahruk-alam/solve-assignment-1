@@ -72,6 +72,7 @@ margin-right: 220px;
 .productive{
     display: flex;
     justify-content: center;
+    padding-left: 90px;
     
 }
 .title{
