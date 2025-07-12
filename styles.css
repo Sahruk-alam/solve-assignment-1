@@ -146,6 +146,7 @@ h1{
 .touch{
     padding:50px 150px ;
     margin: 30px 150px;
+    justify-content: center;
 }
 
 .box input[type="email"],input[type="text"],textarea{
@@ -161,6 +162,10 @@ h1{
     color: #000000;
     margin-right: 150px;
     margin-top: 9px;
+}
+.box{
+
+    justify-content: right;
 }
 h1{
     margin-right: 115px;
@@ -215,6 +220,7 @@ font-weight: bold;
     display: flex;
     gap: 24px;
     justify-content: center;
+   
     
  }
  .feedback-title{
@@ -226,9 +232,9 @@ font-weight: bold;
     margin-bottom:50px ;
  }
  .feedback{
-    /* text-align: center; */
     padding:130px 150px ;
-    margin-right: 150px; */
-    width: 1140px;
-    height: 342px;
+    /* margin-right: 150px;  */
+    /* width: 1140px;
+    height: 342px; */
+    justify-content: right;
  }
