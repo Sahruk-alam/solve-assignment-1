@@ -20,6 +20,11 @@
    border-radius: 5px;
    
 }
+.btn:hover{
+    background-color: darkgoldenrod;
+    cursor: pointer;
+
+}
 .first-head{
     display: flex;
     align-items: center;
